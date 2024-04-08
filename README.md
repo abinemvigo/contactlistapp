@@ -82,7 +82,7 @@ npm install
 
 Run App using
 ```sh
-npm run dev
+npm start
 ```
 
 Runs the app in the development mode.\
