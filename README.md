@@ -34,7 +34,15 @@ The front end of the application is built using React.js. You can find the front
 
 [Frontend Repo](https://github.com/abinemvigo/contactlistapp/tree/main/contact-app )
 
+clone 
 
+```sh
+git clone https://github.com/abinemvigo/contactlistapp.git
+```
+
+```sh
+cd contact-app
+```
 
 Install NPM packages
 
@@ -43,7 +51,9 @@ npm install
 ```
 
 Run App using
-### `npm start`
+```sh
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -54,13 +64,26 @@ The backend of the application is built using Node.js with Express.js framework.
 
 [Backend Repo](https://github.com/abinemvigo/contactlistapp/tree/main/ContactService )
 
+clone 
+
+```sh
+git clone https://github.com/abinemvigo/contactlistapp.git
+```
+
+```sh
+cd ContactService
+```
+
 Install NPM packages
 
 ```sh
 npm install
 ```
-Run App
-### `npm run dev`
+
+Run App using
+```sh
+npm run dev
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
